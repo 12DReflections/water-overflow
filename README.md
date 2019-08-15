@@ -12,6 +12,7 @@ virtualenv venv
 source venv/bin/activate
 ```
 
+### Run the software
 - Run the unit tests
 
 ``` bash
