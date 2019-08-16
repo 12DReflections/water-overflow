@@ -21,5 +21,6 @@ python3 -m unittest discover tests/
 
 - Run the program
 ``` bash
-python3 run.py 3 5 10
+python3 main.py 3 5 10
+python3 main.py 3 5 2
 ```
